@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039847329179",
+    "project_id": "interface-d0eb2",
+    "storage_bucket": "interface-d0eb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039847329179:android:30c27d98aea6e44771e53e",
+        "android_client_info": {
+          "package_name": "com.example.aninterface"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKk0msJk6wWgtkwfKpsMw6EDuoxiNBElk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
